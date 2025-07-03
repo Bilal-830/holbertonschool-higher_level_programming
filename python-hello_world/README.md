@@ -3,6 +3,7 @@
 # I made the task 1
 # I made the task 2
 # I made the task 3
-# I made the task 4 no
-# I made the task 5 no
+# I made the task 4 
+# I made the task 5
 # I made the task 6
+# I made the task 7
